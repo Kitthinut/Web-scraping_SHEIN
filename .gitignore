@@ -1,0 +1,16 @@
+# Local Python environment and caches
+.venv/
+__pycache__/
+*.py[cod]
+
+# Browser profile can contain cookies, history, and other local session data
+shein_browser_profile/
+
+# Reversible storage for duplicate images removed from All_blouses
+duplicate_quarantine/
+
+All_blouses/
+blouse_1_606.csv
+blouses_1_606.csv
+data_image.csv
+image_urls.csv
